@@ -1,0 +1,7 @@
+bash
+
+mkdir -p /home/claude/record-share/src/{components,pages,hooks,context,utils,styles}
+echo "Structure created"
+Output
+
+Structure created
